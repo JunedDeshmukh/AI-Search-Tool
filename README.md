@@ -7,7 +7,7 @@ This project includes basic search functionality and a **Recent Searches** tab (
 
 ## 🌐 Live Demo
 
-[**Click here to try the app**](ai-search-tool-delta.vercel.app) 🚀
+[**Click here to try the app**](http://ai-search-tool-delta.vercel.app) 🚀
 
 ---
 
