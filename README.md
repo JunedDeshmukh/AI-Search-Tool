@@ -5,10 +5,9 @@ This project includes basic search functionality and a **Recent Searches** tab (
 
 ---
 
-## 📸 Preview
+## 🌐 Live Demo
 
-![AI Search Tool Preview](ai-search-tool-delta.vercel.app)  
-> _Example of search results with the recent searches tab visible._
+[**Click here to try the app**](ai-search-tool-delta.vercel.app) 🚀
 
 ---
 
