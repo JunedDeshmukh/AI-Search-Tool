@@ -20,6 +20,3 @@ This project includes basic search functionality and a **Recent Searches** tab (
 ---
 
 
-
-## 📂 Project Structure
-
