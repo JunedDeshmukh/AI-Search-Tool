@@ -1,12 +1,26 @@
-# React + Vite
+# AI Search Tool (React + Gemini API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered search tool built with **React** that integrates with the **Gemini API** to deliver intelligent search results.  
+This project includes basic search functionality and a **Recent Searches** tab (persisted via **Local Storage**) to quickly revisit previous queries, even after refreshing the page.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![AI Search Tool Preview](ai-search-tool-delta.vercel.app)  
+> _Example of search results with the recent searches tab visible._
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- **Gemini API Integration** – Connects to the Gemini API for AI-powered search results.
+- **Basic Search Functionality** – Enter your query and get instant results.
+- **Recent Searches Persistence** – Uses **Local Storage** to save and restore your latest searches
+
+---
+
+
+
+## 📂 Project Structure
+
